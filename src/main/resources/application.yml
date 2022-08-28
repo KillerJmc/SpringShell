@@ -1,0 +1,4 @@
+# 启动时不输出日志
+logging:
+  level:
+    root: off
